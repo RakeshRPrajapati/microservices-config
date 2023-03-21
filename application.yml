@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: Config-Default
-
 
 eureka: #Commented it out since these will be coming from ConfigServer
   instance:
