@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Config-default
+    name: Config-defaulta
 eureka: #Commented it out since these will be coming from ConfigServer
   instance:
     prefer-ip-address: true
